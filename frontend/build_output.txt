@@ -1,0 +1,78 @@
+﻿
+> frontend@0.1.0 build
+> next build
+
+  Γû▓ Next.js 14.2.35
+  - Environments: .env.local
+
+   Creating an optimized production build ...
+ Γ£ô Compiled successfully
+   Linting and checking validity of types ...
+node.exe : 
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo      
+        : NotSpecified  
+  : (:String) [], Rem   
+ oteException
+    + FullyQualifiedErr 
+   orId : NativeComman  
+  dError
+ 
+Failed to compile.
+
+./components/Candlestick
+Chart.tsx
+107:24  Error: 
+'seriesIndex' is 
+defined but never used. 
+ @typescript-eslint/no-u
+nused-vars
+107:58  Error: 
+Unexpected any. Specify 
+a different type.  @type
+script-eslint/no-explici
+t-any
+
+./components/ForecastPan
+el.tsx
+3:10  Error: 'useState' 
+is defined but never 
+used.  @typescript-eslin
+t/no-unused-vars
+
+./components/HUDOverlay.
+tsx
+40:60  Error: 
+Unexpected any. Specify 
+a different type.  @type
+script-eslint/no-explici
+t-any
+
+./components/MetricCard.
+tsx
+82:78  Error: 'updated' 
+is defined but never 
+used.  @typescript-eslin
+t/no-unused-vars
+
+./components/StockChart.
+tsx
+44:52  Error: 
+Unexpected any. Specify 
+a different type.  @type
+script-eslint/no-explici
+t-any
+
+info  - Need to disable 
+some ESLint rules? 
+Learn more here: https:/
+/nextjs.org/docs/basic-f
+eatures/eslint#disabling
+-rules

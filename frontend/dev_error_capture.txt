@@ -1,0 +1,229 @@
+﻿  Γû▓ Next.js 14.2.35
+  - Local:        http://localhost:3010
+  - Environments: .env.local
+
+ Γ£ô Starting...
+ Γ£ô Ready in 4.5s
+ Γùï Compiling / ...
+ Γ£ô Compiled / in 21.6s (2464 modules)
+ GET / 200 in 23458ms
+ Γ£ô Compiled in 15.2s (1227 modules)
+ Γùï Compiling /dashboard ...
+ Γ£ô Compiled /favicon.ico in 62.4s (2266 modules)
+ GET /favicon.ico 200 in 61890ms
+ GET /dashboard 200 in 68001ms
+ Γùï Compiling / ...
+ Γ£ô Compiled / in 2.2s (1484 modules)
+ Γ£ô Compiled in 10.7s (2234 modules)
+ Γ£ô Compiled in 5.7s (2234 modules)
+ GET /dashboard 200 in 1834ms
+ Γùï Compiling /favicon.ico ...
+ Γ£ô Compiled /favicon.ico in 2.2s (909 modules)
+ GET /favicon.ico 200 in 2577ms
+ Γ£ô Compiled in 10.5s (2266 modules)
+ Γùï Compiling /_not-found ...
+ Γ£ô Compiled /_not-found in 1162ms (2255 modules)
+ GET /_next/static/webpack/4f056fc7ed69d2e1.webpack.hot-update.json 404 in 1344ms
+node.exe :  ΓÜá Fast 
+Refresh had to perform 
+a full reload. Read 
+more: https://nextjs.org
+/docs/messages/fast-refr
+esh-reload
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo      
+        : NotSpecified  
+  : ( ΓÜá Fast Refre.   
+ ..-refresh-reload:S    
+tring) [], RemoteEx    
+ception
+    + FullyQualifiedErr 
+   orId : NativeComman  
+  dError
+ 
+ GET /dashboard 200 in 437ms
+ GET /favicon.ico 200 in 31ms
+ Γ£ô Compiled in 2s (2269 modules)
+[Error: ENOENT: no such 
+file or directory, stat 
+'C:\Users\syedk\OneDrive
+\Desktop\FinRobot\fronte
+nd\.next\cache\webpack\c
+lient-development\1.pack
+.gz'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: 'C:\\Users\\syed
+k\\OneDrive\\Desktop\\Fi
+nRobot\\frontend\\.next\
+\cache\\webpack\\client-
+development\\1.pack.gz'
+}
+ Γ¿» 
+unhandledRejection: 
+[Error: ENOENT: no such 
+file or directory, stat 
+'C:\Users\syedk\OneDrive
+\Desktop\FinRobot\fronte
+nd\.next\cache\webpack\c
+lient-development\1.pack
+.gz'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: 'C:\\Users\\syed
+k\\OneDrive\\Desktop\\Fi
+nRobot\\frontend\\.next\
+\cache\\webpack\\client-
+development\\1.pack.gz'
+}
+ Γ¿» 
+unhandledRejection: 
+[Error: ENOENT: no such 
+file or directory, stat 
+'C:\Users\syedk\OneDrive
+\Desktop\FinRobot\fronte
+nd\.next\cache\webpack\c
+lient-development\1.pack
+.gz'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: 'C:\\Users\\syed
+k\\OneDrive\\Desktop\\Fi
+nRobot\\frontend\\.next\
+\cache\\webpack\\client-
+development\\1.pack.gz'
+}
+[Error: ENOENT: no such 
+file or directory, stat 
+'C:\Users\syedk\OneDrive
+\Desktop\FinRobot\fronte
+nd\.next\cache\webpack\c
+lient-development\15.pac
+k.gz'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: 'C:\\Users\\syed
+k\\OneDrive\\Desktop\\Fi
+nRobot\\frontend\\.next\
+\cache\\webpack\\client-
+development\\15.pack.gz'
+}
+ Γ¿» 
+unhandledRejection: 
+[Error: ENOENT: no such 
+file or directory, stat 
+'C:\Users\syedk\OneDrive
+\Desktop\FinRobot\fronte
+nd\.next\cache\webpack\c
+lient-development\15.pac
+k.gz'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: 'C:\\Users\\syed
+k\\OneDrive\\Desktop\\Fi
+nRobot\\frontend\\.next\
+\cache\\webpack\\client-
+development\\15.pack.gz'
+}
+ Γ¿» 
+unhandledRejection: 
+[Error: ENOENT: no such 
+file or directory, stat 
+'C:\Users\syedk\OneDrive
+\Desktop\FinRobot\fronte
+nd\.next\cache\webpack\c
+lient-development\15.pac
+k.gz'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: 'C:\\Users\\syed
+k\\OneDrive\\Desktop\\Fi
+nRobot\\frontend\\.next\
+\cache\\webpack\\client-
+development\\15.pack.gz'
+}
+<w> [webpack.cache.PackF
+ileCacheStrategy] 
+Caching failed for 
+pack: Error: ENOENT: no 
+such file or directory, 
+stat 'C:\Users\syedk\One
+Drive\Desktop\FinRobot\f
+rontend\.next\cache\webp
+ack\client-development\1
+.pack.gz'
+[Error: ENOENT: no such 
+file or directory, stat 
+'C:\Users\syedk\OneDrive
+\Desktop\FinRobot\fronte
+nd\.next\cache\webpack\s
+erver-development\2.pack
+.gz'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: 'C:\\Users\\syed
+k\\OneDrive\\Desktop\\Fi
+nRobot\\frontend\\.next\
+\cache\\webpack\\server-
+development\\2.pack.gz'
+}
+ Γ¿» 
+unhandledRejection: 
+[Error: ENOENT: no such 
+file or directory, stat 
+'C:\Users\syedk\OneDrive
+\Desktop\FinRobot\fronte
+nd\.next\cache\webpack\s
+erver-development\2.pack
+.gz'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: 'C:\\Users\\syed
+k\\OneDrive\\Desktop\\Fi
+nRobot\\frontend\\.next\
+\cache\\webpack\\server-
+development\\2.pack.gz'
+}
+ Γ¿» 
+unhandledRejection: 
+[Error: ENOENT: no such 
+file or directory, stat 
+'C:\Users\syedk\OneDrive
+\Desktop\FinRobot\fronte
+nd\.next\cache\webpack\s
+erver-development\2.pack
+.gz'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: 'C:\\Users\\syed
+k\\OneDrive\\Desktop\\Fi
+nRobot\\frontend\\.next\
+\cache\\webpack\\server-
+development\\2.pack.gz'
+}
+<w> [webpack.cache.PackF
+ileCacheStrategy] 
+Caching failed for 
+pack: Error: ENOENT: no 
+such file or directory, 
+stat 'C:\Users\syedk\One
+Drive\Desktop\FinRobot\f
+rontend\.next\cache\webp
+ack\server-development\2
+.pack.gz'
