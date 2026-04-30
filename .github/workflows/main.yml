@@ -44,3 +44,14 @@ jobs:
         run: |
           cd backend
           python -c "import main; print('Backend OK')"
+
+      # ---------------- DOCKER ----------------
+      - name: Build Backend Docker Image
+        run: |
+          cd backend
+          docker build -t finrobot-backend .
+
+      - name: Build Frontend Docker Image
+        run: |
+          cd frontend
+          docker build -t finrobot-frontend .
